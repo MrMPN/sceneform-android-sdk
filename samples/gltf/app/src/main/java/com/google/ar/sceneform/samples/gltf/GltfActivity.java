@@ -108,7 +108,7 @@ public class GltfActivity extends AppCompatActivity {
         .setSource(
             this,
             Uri.parse(
-                "https://storage.googleapis.com/ar-answers-in-search-models/static/Tiger/model.glb"))
+                "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/BoxAnimated/glTF-Binary/BoxAnimated.glb"))
         .setIsFilamentGltf(true)
         .build()
         .thenAccept(
@@ -155,24 +155,6 @@ public class GltfActivity extends AppCompatActivity {
             Material material = renderable.getMaterial(i);
             material.setFloat4("baseColorFactor", color);
           }
-
-          Node tigerTitleNode = new Node();
-          tigerTitleNode.setParent(model);
-          tigerTitleNode.setEnabled(false);
-          tigerTitleNode.setLocalPosition(new Vector3(0.0f, 1.0f, 0.0f));
-          ViewRenderable.builder()
-                  .setView(this, R.layout.tiger_card_view)
-                  .build()
-                  .thenAccept(
-                          (renderable) -> {
-                              tigerTitleNode.setRenderable(renderable);
-                              tigerTitleNode.setEnabled(true);
-                          })
-                  .exceptionally(
-                          (throwable) -> {
-                              throw new AssertionError("Could not load card view.", throwable);
-                          }
-                  );
         });
 
     arFragment
