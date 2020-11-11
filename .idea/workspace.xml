@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b25d27f-5f28-45bb-93a2-63c168e15d88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples/gltf/app/src/main/java/com/google/ar/sceneform/samples/gltf/GltfActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/samples/gltf/app/src/main/java/com/google/ar/sceneform/samples/gltf/GltfActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/java/com/google/ar/sceneform/rendering/RenderingResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/java/com/google/ar/sceneform/rendering/RenderingResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_camera_material.matc" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_camera_material.matc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_opaque_colored_material.matc" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_opaque_colored_material.matc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_opaque_textured_material.matc" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_opaque_textured_material.matc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_plane_material.matc" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_plane_material.matc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_plane_shadow_material.matc" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_plane_shadow_material.matc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_transparent_colored_material.matc" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_transparent_colored_material.matc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_transparent_textured_material.matc" beforeDir="false" afterPath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_transparent_textured_material.matc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sceneformsrc/sceneform/src/main/res/raw/sceneform_view_renderable.sfb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k8uarFpm6Tu794qf9eBGx7zABW" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b25d27f-5f28-45bb-93a2-63c168e15d88" name="Default Changelist" comment="" />
+      <created>1605094605946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605094605946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3503" y="323" width="672" height="678" key="search.everywhere.popup" timestamp="1605094649013">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3503" y="323" width="672" height="678" key="search.everywhere.popup/2560.0.2560.1440/0.0.2560.1412@2560.0.2560.1440" timestamp="1605094649013" />
+  </component>
+</project>
